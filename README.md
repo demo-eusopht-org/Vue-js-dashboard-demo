@@ -13,7 +13,7 @@ This project is a Vue.js dashboard application that includes features such as lo
 1. Clone the repository.
 2. Install dependencies using `npm install` or `yarn install`.
 3. Configure the backend server if required.
-4. Run the development server using `npm run serve` or `yarn serve`.
+4. Run the development server using `npm run dev.
 
 ## Usage
 1. Navigate to the login page.
@@ -29,7 +29,7 @@ This project is a Vue.js dashboard application that includes features such as lo
 - Vue Good Table
 - Tailwind
 - JavaScript (ES6+)
-
+- Vite
 ## Project Structure
 - `src/`: Contains the source code of the project.
   - `components/`: Vue components used in the project.
