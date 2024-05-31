@@ -25,10 +25,9 @@ This project is a Vue.js dashboard application that includes features such as lo
 ## Technologies Used
 - Vue.js
 - Vue Router
-- Vuex (if applicable)
 - Axios
 - Vue Good Table
-- HTML/CSS
+- Tailwind
 - JavaScript (ES6+)
 
 ## Project Structure
@@ -45,13 +44,5 @@ This project is a Vue.js dashboard application that includes features such as lo
 - `public/`: Contains static assets and the index.html file.
 - `README.md`: Documentation for the project.
 
-## How to Contribute
-If you want to contribute to this project, follow these steps:
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
 
-## License
-[License information if applicable. For example, MIT License]
+
