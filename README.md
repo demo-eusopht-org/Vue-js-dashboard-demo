@@ -36,9 +36,6 @@ This project is a Vue.js dashboard application that includes features such as lo
   - `views/`: Vue views or pages.
   - `assets/`: Static assets like images, fonts, etc.
   - `router/`: Vue Router configuration.
-  - `store/`: Vuex store modules (if applicable).
-  - `services/`: Services for interacting with APIs.
-  - `utils/`: Utility functions.
   - `App.vue`: Main Vue component.
   - `main.js`: Entry point of the Vue application.
 - `public/`: Contains static assets and the index.html file.
