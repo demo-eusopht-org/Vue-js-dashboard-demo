@@ -1,1 +1,57 @@
-# Vue-js-dashboard-demo
+# Vue.js Dashboard Project
+
+## Description
+This project is a Vue.js dashboard application that includes features such as login authentication, creating tables, mapping data into tables, and a form for creating managers.
+
+## Features
+- Login authentication system.
+- Table creation functionality.
+- Mapping data into tables.
+- Form for creating managers with validation.
+
+## Installation
+1. Clone the repository.
+2. Install dependencies using `npm install` or `yarn install`.
+3. Configure the backend server if required.
+4. Run the development server using `npm run serve` or `yarn serve`.
+
+## Usage
+1. Navigate to the login page.
+2. Log in with valid credentials.
+3. Access the dashboard to view tables and manage managers.
+4. Create new tables or managers as needed.
+5. Log out after completing tasks.
+
+## Technologies Used
+- Vue.js
+- Vue Router
+- Vuex (if applicable)
+- Axios
+- Vue Good Table
+- HTML/CSS
+- JavaScript (ES6+)
+
+## Project Structure
+- `src/`: Contains the source code of the project.
+  - `components/`: Vue components used in the project.
+  - `views/`: Vue views or pages.
+  - `assets/`: Static assets like images, fonts, etc.
+  - `router/`: Vue Router configuration.
+  - `store/`: Vuex store modules (if applicable).
+  - `services/`: Services for interacting with APIs.
+  - `utils/`: Utility functions.
+  - `App.vue`: Main Vue component.
+  - `main.js`: Entry point of the Vue application.
+- `public/`: Contains static assets and the index.html file.
+- `README.md`: Documentation for the project.
+
+## How to Contribute
+If you want to contribute to this project, follow these steps:
+1. Fork the project.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Create a new Pull Request.
+
+## License
+[License information if applicable. For example, MIT License]
