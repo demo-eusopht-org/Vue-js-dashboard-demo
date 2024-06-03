@@ -5,7 +5,7 @@ This project is a Vue.js dashboard application that includes features such as lo
 
 ## Features
 - Login authentication system.
-- Table creation functionality.
+- Table view functionality.
 - Mapping data into tables.
 - Form for creating managers with validation.
 
